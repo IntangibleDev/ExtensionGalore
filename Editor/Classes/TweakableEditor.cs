@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using UnityEditor;
 
-// Stolen from https://answers.unity.com/questions/316286/how-to-remove-script-field-in-inspector.html. Thx XP.
+// Yoinked from https://answers.unity.com/questions/316286/how-to-remove-script-field-in-inspector.html. Thx XP.
 
 /// <summary>
 /// A simple class to inherit from when only minor tweaks to a component's inspector are required.
